@@ -2,6 +2,9 @@
   "name": "cf-cheating-detector",
   "version": "0.0.1",
   "description": "Codeforces cheating detector",
+  "engines": {
+    "node" : "^14"
+  },
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
