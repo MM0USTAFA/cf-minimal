@@ -2,7 +2,7 @@
 
 ## INSTALLATION
 
-First: download project on your device by entering the following command:
+First: download the project on your device by entering the following command:
 ```sh
 $ git clone https://github.com/MM0USTAFA/cf-minimal.git <download directory>
 ```
